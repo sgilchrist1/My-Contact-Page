@@ -71,8 +71,8 @@ background-position: center;
     width: 60%;
 	min-width: 200px;
 	padding: 2%;
-    margin: 200px auto;
- 	background: rgba(247, 247, 247, 0.55); /*this uses opacity of 55% for the background color*/
+    margin: 100px auto;
+ 	background: rgba(247, 247, 247, 0.65); /*this uses opacity of 65% for the background color*/
 	text-align: center;
 	border-radius:70px 0px 70px 0px ;
 
